@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/shishir_rmc" target="blank"><img src="https://img.shields.io/twitter/follow/shishir_rmc?logo=twitter&style=for-the-badge" alt="shishir_rmc" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [github.com/ShishirRmc](github.com/ShishirRmc)
+- All of my projects are available at [github.com/ShishirRmc](github.com/ShishirRmc)
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Project Dev, AI and Data Science.**
+- Ask me about **Machine Learning, Deep Learning, Project Dev, AI and Data Science.**
 
-- 📫 Reach out to me with **rmcshishir07@gmail.com**
+- Reach out to me with **rmcshishir07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
